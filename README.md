@@ -1,6 +1,9 @@
 # GitHub Pages Sample 
 This is just a sample created for educational purposes
 
+# Goal
+Learn How to create a simple website with GitHub pages using existing themes
+
 ## Testing logos
 ### Small blue logo
 ![Logo](./logo.png "Runzbuzz Logo")
