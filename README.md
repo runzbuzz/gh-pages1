@@ -8,4 +8,7 @@ This is just a sample created for educational purposes
 ### Large white logo
 ![Logo](./runzbuzz_sideway_white.png "Runzbuzz White Logo")
 
+# Theme
+[Architect](https://github.com/pages-themes/architect)
+
 
