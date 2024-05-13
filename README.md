@@ -1,8 +1,13 @@
 # Runzbuzz 
 An AI startup founded in Kuwait.
 
+
+## Small blue logo
 ![Logo](./logo.png "Runzbuzz Logo")
+
+## Large white logo
 ![Logo](./runzbuzz_sideway_white.png "Runzbuzz White Logo")
+
 
 ## Services
 1. AI Consultancy
