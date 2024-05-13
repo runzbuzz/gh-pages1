@@ -1,4 +1,4 @@
-# Runzbuzz
+# Runzbuzz ![Logo](./logo.png "Runzbuzz Logo")
 An AI startup founded in Kuwait.
 
 ![Logo](./logo.png "Runzbuzz Logo")
