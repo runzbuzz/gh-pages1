@@ -1,18 +1,11 @@
-# Runzbuzz 
-An AI startup founded in Kuwait.
+# GitHub Pages Sample 
+This is just a sample created for educational purposes
 
-
-## Small blue logo
+## Testing logos
+### Small blue logo
 ![Logo](./logo.png "Runzbuzz Logo")
 
-## Large white logo
+### Large white logo
 ![Logo](./runzbuzz_sideway_white.png "Runzbuzz White Logo")
 
 
-## Services
-1. AI Consultancy
-2. Software Development
-3. Research and Analysis
-
-## Website
-You can visit our website [here](https://www.runzbuzz.com)
