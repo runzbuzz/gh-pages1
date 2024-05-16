@@ -23,16 +23,32 @@ The website can be accessed [here](https://runzbuzz.github.io/gh-pages1/)
 # H1
 ## H2
 ### H3
+
 Bold	**bold text**
+
 Italic	*italicized text*
+
 Blockquote	> blockquote
+
 Ordered List	1. First item
 2. Second item
 3. Third item
-Unordered List	- First item
+
+Unordered List	
+- First item
 - Second item
 - Third item
+- 
 Code	`code`
-Horizontal Rule	---
-Link	[title](https://www.runzbuzz.com)
-Image	![alt text](./logo.png)
+
+Horizontal Rule
+
+---
+
+Link	
+
+[title](https://www.runzbuzz.com)
+
+Image	
+
+![alt text](./logo.png)
