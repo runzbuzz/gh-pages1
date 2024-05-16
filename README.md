@@ -36,8 +36,6 @@ Code	`code`
 
 ---
 
-Link	
-[title](https://www.runzbuzz.com)
+[Runzbuzz](https://www.runzbuzz.com)
 
-Image	
-![alt text](./logo.png)
+![Runzbuzz Logo](./logo.png)
